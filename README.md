@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Andreh!
 
-![Bem-vindo ao meu perfil! 🎉](https://i.imgur.com/zVhAXlt.png)
+![Bem-vindo ao meu perfil! 🎉]([https://i.imgur.com/zVhAXlt.png](https://imgur.com/a/KUEb9se))
 
 ---
 
@@ -54,6 +54,7 @@
 
 ---
 
-![Divisor animado](https://via.placeholder.com/800x10.png?text=+)
+
 
 🎉 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e se conectar comigo.
+
