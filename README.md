@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Andreh!
 
-![Banner com uma mensagem de boas-vindas personalizada](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+meu+perfil!+%F0%9F%8E%89)
+![Bem-vindo ao meu perfil! 🎉](https://i.imgur.com/zVhAXlt.png)
 
 ---
 
