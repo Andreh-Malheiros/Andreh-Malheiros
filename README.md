@@ -1,19 +1,20 @@
 # 👋 Olá, eu sou o Andreh!
 
-![Bem-vindo ao meu perfil! 🎉]([https://i.imgur.com/zVhAXlt.png](https://imgur.com/a/KUEb9se))
+🌟 **Bem-vindo ao meu perfil!** 🎉
 
 ---
 
 ## Sobre mim
 🎓 Tenho 17 anos e sou estudante de Ensino Médio e Técnico em Informática no Colégio Cotemig, onde comecei em 2023. Estou desenvolvendo minhas habilidades em programação e web design, sempre buscando aprender mais e me envolver em projetos desafiadores.
 
-🌱 Atualmente estou montando meu portfólio e explorando projetos em HTML/CSS, JavaScript e Java, com o objetivo de fortalecer minha base técnica e compartilhar meu progresso.
+🌱 Atualmente, estou montando meu portfólio e explorando projetos em HTML/CSS, JavaScript e Java, com o objetivo de fortalecer minha base técnica e compartilhar meu progresso.
 
 ---
 
 ## 💻 Habilidades
 
 <div align="center">
+  <h4>Principais Habilidades:</h4>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -37,7 +38,7 @@
 ---
 
 ## 📬 Contato
-📫 Quer colaborar ou trocar ideias? Me mande uma mensagem aqui no GitHub ou em **andrehmalheirostiberio@gmail.com**.
+📫 Quer colaborar ou trocar ideias? Me mande uma mensagem aqui no GitHub ou em **[andrehmalheirostiberio@gmail.com](mailto:andrehmalheirostiberio@gmail.com)**.
 
 ---
 
@@ -54,7 +55,4 @@
 
 ---
 
-
-
-🎉 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e se conectar comigo.
-
+🎉 **Obrigado por visitar meu perfil!** Fique à vontade para explorar meus projetos e se conectar comigo.
