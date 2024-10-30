@@ -1,4 +1,4 @@
-<div style="background-image: url('https://i.imgur.com/7F7uocd.jpg'); padding: 20px; border-radius: 10px; background-size: cover;">
+<div style="background-image: url('[https://i.imgur.com/7F7uocd.jpg](https://github.com/Andreh-Malheiros/Bem-Vindo/blob/main/Design%20sem%20nome.png?raw=true)'); padding: 20px; border-radius: 10px; background-size: cover;">
 
 # 👋 Olá, eu sou o Andreh!
 
