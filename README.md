@@ -1,4 +1,7 @@
-<div style="background-image: url('[https://i.imgur.com/7F7uocd.jpg](https://github.com/Andreh-Malheiros/Bem-Vindo/blob/main/Design%20sem%20nome.png?raw=true)'); padding: 20px; border-radius: 10px; background-size: cover;">
+<table style="width:100%; background-image: url('https://i.imgur.com/7F7uocd.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
+
+<tr>
+<td>
 
 # 👋 Olá, eu sou o Andreh!
 
@@ -60,4 +63,6 @@
 
 🎉 **Obrigado por visitar meu perfil!** Fique à vontade para explorar meus projetos e se conectar comigo.
 
-</div>
+</td>
+</tr>
+</table>
