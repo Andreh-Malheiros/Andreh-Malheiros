@@ -1,3 +1,5 @@
+<div style="background-image: url('https://i.imgur.com/7F7uocd.jpg'); padding: 20px; border-radius: 10px; background-size: cover;">
+
 # 👋 Olá, eu sou o Andreh!
 
 🌟 **Bem-vindo ao meu perfil!** 🎉
@@ -57,3 +59,5 @@
 ---
 
 🎉 **Obrigado por visitar meu perfil!** Fique à vontade para explorar meus projetos e se conectar comigo.
+
+</div>
