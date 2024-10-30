@@ -3,9 +3,10 @@
 <tr>
 <td>
 
-# 👋 Olá, eu sou o Andreh!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Olá!%2C+Eu+Sou+o+Andreh+Malheiros.;Bem+Vindo+ao+meu+perfil+no+GitHub!+)](https://git.io/typing-svg)
 
-🌟 **Bem-vindo ao meu perfil!** 🎉
+<img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif?cid=790b7611v7gt4o42oew83auylfzugw4yl3kd4xt17ywx1t76&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pixel Art" align="right" width="200">
+
 
 ---
 
@@ -26,6 +27,16 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Office-%230A66C2.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Pacote Office"/>
+</div>
+
+
+### GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="(https://github.com/Andreh-Malheiros)">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreh-Malheiros&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreh-Malheiros&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
 </div>
 
 ---
