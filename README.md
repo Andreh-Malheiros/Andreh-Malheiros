@@ -34,6 +34,7 @@
 
 ## 🚀 Projetos em Destaque
 - 🎬 **Biblioteca de Filmes**: Um projeto web usando HTML, CSS e JavaScript, que permite ao usuário pesquisar e visualizar informações sobre filmes de uma API pública.
+- 📄 **Currículo**: [Clique aqui para baixar meu currículo em PDF!](https://drive.google.com/file/d/1kUkzYGixHmLYUPbVmdVMu9QoqiOtnC26/view?usp=sharing)
 
 ---
 
