@@ -50,7 +50,7 @@
 ## 🚀 Projetos em Destaque
 - 🎬 **Biblioteca de Filmes**: Um projeto web usando **HTML, CSS e JavaScript**, que permite ao usuário pesquisar e visualizar informações sobre filmes de uma API pública.
 - 📱 **Aplicativo Mobile (Em Desenvolvimento)**: Explorando **Kotlin e Dart** para criar um app mobile funcional e responsivo.
-- 📄 **Currículo**: [Clique aqui para baixar meu currículo em PDF!](https://drive.google.com/file/d/1kUkzYGixHmLYUPbVmdVMu9QoqiOtnC26/view?usp=sharing)
+- 📄 **Currículo**: [Clique aqui para baixar meu currículo em PDF!]([https://drive.google.com/file/d/1kUkzYGixHmLYUPbVmdVMu9QoqiOtnC26/view?usp=sharing](https://drive.google.com/file/d/1o3ZYvPK2ZZeLlRiwUPrNKiRZdfKr02w0/view?usp=sharing))
 
 ---
 
