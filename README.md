@@ -8,7 +8,7 @@
 ---
 
 ## Sobre mim
-🎓 Tenho **17 anos** e sou estudante do **Ensino Médio Técnico em Informática no Colégio Cotemig**, atualmente no **3º ano cursando Mobile**. Estou aprimorando minhas habilidades em **desenvolvimento web e mobile**, explorando novas tecnologias e criando projetos desafiadores.
+🎓 Tenho **18 anos** e sou estudante do **Ensino Médio Técnico em Informática no Colégio Cotemig**, atualmente no **3º ano cursando Mobile**. Estou aprimorando minhas habilidades em **desenvolvimento web e mobile**, explorando novas tecnologias e criando projetos desafiadores.
 
 🌱 Atualmente, estou aprendendo **Kotlin, PHP, Dart e Swift**, além de fortalecer minha base em **HTML, CSS, JavaScript e MySQL**.
 
